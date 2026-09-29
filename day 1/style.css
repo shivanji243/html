@@ -1,0 +1,18 @@
+h1{
+    color : blue;
+}
+h2{
+    color : pink;
+    background-color: aquamarine;
+}
+p{
+    color:brown;
+}
+.para{
+    color :chartreuse;
+    border-style:solid;
+    border-color: darkred;
+    text-align: justify;
+    padding: 50px;
+    margin: 20px;
+}

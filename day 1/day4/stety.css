@@ -1,0 +1,22 @@
+
+.navbar{
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+}
+.navbar{
+    text-decoration: none;
+    color: black;
+    padding: 10px 30px;
+}
+.hero{
+    height: 6000px;
+    width: 600px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWsHjWJF08U8bNG_oVMdXavsnRqyfqjRTxBC0DUPHGupWu1lc0meBG4Ai&s=10.jpg")
+     grid-template-columns: 1fr;
+    background-size:over ;
+}

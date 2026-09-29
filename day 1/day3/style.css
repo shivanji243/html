@@ -1,0 +1,50 @@
+body {
+    border: solid;
+    border-color:black;
+    
+    background-color: rgb(246, 246, 255);
+    margin: 100PX;
+    margin-left: 550PX;
+    margin-right: 550PX;
+    padding:red, 5PX;
+    padding-right: 10PX;
+    padding-left: 10PX;
+}
+
+form {
+     border: 3px solid white; 
+
+    width: 400px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+
+    padding: 0px;
+
+    background-color: white;
+
+    box-shadow: white 0px 7px 29px 0px;
+
+}
+h1{
+    color:blue;
+}
+
+h1,h4 {
+    text-align: center;
+}
+
+form input {
+    width: 100%;
+
+    margin: 0px 0;
+    padding: 0px;
+
+    box-sizing: border-box;
+}
+
+form input[type="submit"] {
+    background-color: black;
+    color: white;
+}
